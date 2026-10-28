@@ -24,7 +24,7 @@ It may suit someone who wants a cheap test of AI-assisted KDP publishing, will e
 
 ## Links
 
-- [Check the current KDPGlobal price, bonuses and coupon (affiliate link)](https://bestinfolab.com/visit/kdpglobal)
+- [Check the current KDPGlobal price, bonuses and coupon](https://bestinfolab.com/visit/kdpglobal)
 - [Full pre-purchase checklist and claims comparison](https://mujahida3k.github.io/kdpglobal-review/)
 - [Amazon's official KDP content guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390)
 
