@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: KDPGlobal Review Checklist
+description: A plain-English checklist, pricing breakdown and refund summary for KDPGlobal, with Amazon KDP's 2026 AI rules.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
